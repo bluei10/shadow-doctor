@@ -1,0 +1,86 @@
+[
+  {
+    "id": "card_001",
+    "specialty": "cardiology",
+    "title": "Acute Myocardial Infarction Diagnosis",
+    "content": "STEMI diagnosis requires: chest pain >20 min, ECG changes (ST elevation ≥1mm in ≥2 contiguous leads or new LBBB), troponin elevation. Key differentials: NSTEMI, unstable angina, aortic dissection, pulmonary embolism, pericarditis. Immediate management: aspirin 325mg, nitroglycerin, heparin, PCI within 90 minutes door-to-balloon time. GRACE score predicts 6-month mortality.",
+    "keywords": ["chest pain", "troponin", "ECG", "ST elevation", "STEMI", "ACS", "cardiac", "heart attack", "MI"]
+  },
+  {
+    "id": "card_002",
+    "specialty": "cardiology",
+    "title": "Heart Failure Classification",
+    "content": "HFrEF (EF<40%): ACE-i/ARB, beta-blocker, aldosterone antagonist, SGLT2i. HFpEF (EF>50%): diuretics for symptom relief, treat comorbidities. NYHA Class I-IV guides treatment intensity. BNP >100 pg/mL or NT-proBNP >300 pg/mL suggests heart failure. Echo is gold standard. 6-minute walk test assesses functional capacity.",
+    "keywords": ["heart failure", "ejection fraction", "BNP", "dyspnea", "edema", "echo", "NYHA"]
+  },
+  {
+    "id": "onco_001",
+    "specialty": "oncology",
+    "title": "Lung Cancer Staging and Workup",
+    "content": "NSCLC staging: IA-IVB based on TNM. PET-CT for staging, brain MRI for stage III-IV. Molecular testing: EGFR, ALK, ROS1, KRAS G12C, PD-L1 TPS mandatory for advanced disease. EGFR mutant: osimertinib first-line. ALK+: alectinib. PD-L1 ≥50%: pembrolizumab monotherapy. Liquid biopsy if tissue unavailable. Early stage: surgery or SBRT.",
+    "keywords": ["lung cancer", "NSCLC", "EGFR", "ALK", "PD-L1", "immunotherapy", "staging", "PET-CT", "nodule"]
+  },
+  {
+    "id": "onco_002",
+    "specialty": "oncology",
+    "title": "Cancer of Unknown Primary",
+    "content": "CUP workup: CT chest/abdomen/pelvis, PET-CT, IHC panel (CK7/CK20, TTF-1, CDX2, ER/PR, PSA, AFP, hCG, CD30). NGS molecular profiling can identify origin in 70% of cases. Poor prognosis subsets vs favorable subsets (peritoneal carcinomatosis in women, axillary node mets in women, midline germ cell syndrome). Empiric platinum-based chemo if no targetable mutation.",
+    "keywords": ["CUP", "unknown primary", "metastatic", "IHC", "CK7", "CK20", "molecular profiling"]
+  },
+  {
+    "id": "neuro_001",
+    "specialty": "neurology",
+    "title": "Stroke Diagnosis and Acute Management",
+    "content": "FAST criteria: Face drooping, Arm weakness, Speech difficulty, Time to call 911. CT head non-contrast to exclude hemorrhage. CT angiography for large vessel occlusion. IV tPA within 4.5 hours if no contraindications (hemorrhage, BP>185/110, anticoagulation, recent surgery). Mechanical thrombectomy up to 24 hours for LVO (NIHSS ≥6, ASPECTS ≥6). NIHSS score guides severity.",
+    "keywords": ["stroke", "tPA", "thrombolysis", "LVO", "thrombectomy", "NIHSS", "CT", "hemorrhage", "ischemic"]
+  },
+  {
+    "id": "neuro_002",
+    "specialty": "neurology",
+    "title": "Seizure and Epilepsy Evaluation",
+    "content": "First seizure workup: MRI brain with epilepsy protocol, EEG, metabolic panel (glucose, Na, Ca, Mg), LP if meningitis suspected. Status epilepticus: lorazepam 0.1mg/kg IV then fosphenytoin/levetiracetam then propofol/midazolam drip. Provoked vs unprovoked determines treatment. AED selection: focal epilepsy (levetiracetam, oxcarbazepine), generalized (valproate, lamotrigine).",
+    "keywords": ["seizure", "epilepsy", "EEG", "status epilepticus", "AED", "levetiracetam", "MRI brain"]
+  },
+  {
+    "id": "gp_001",
+    "specialty": "general_practice",
+    "title": "Differential Diagnosis of Chest Pain",
+    "content": "Cardiac: ACS, pericarditis, myocarditis, aortic dissection. Pulmonary: PE, pneumothorax, pleuritis, pneumonia. GI: GERD, esophageal spasm, peptic ulcer. MSK: costochondritis, rib fracture, muscle strain. Anxiety/panic disorder. Red flags: radiation to arm/jaw, diaphoresis, hemodynamic instability, pleuritic character, sudden onset tearing. Risk stratify with HEART score or TIMI score.",
+    "keywords": ["chest pain", "differential", "ACS", "PE", "GERD", "anxiety", "HEART score"]
+  },
+  {
+    "id": "gp_002",
+    "specialty": "general_practice",
+    "title": "Fatigue Workup",
+    "content": "CBC (anemia, leukemia), CMP (renal/hepatic disease), TSH (thyroid), fasting glucose (diabetes), ferritin, B12/folate, ESR/CRP (inflammatory), HIV, hepatitis panel. Consider: depression screen (PHQ-9), sleep apnea (STOP-BANG), cardiac (BNP, echo). Red flags: weight loss, night sweats, lymphadenopathy (malignancy), focal neuro signs. Chronic fatigue syndrome diagnosis of exclusion.",
+    "keywords": ["fatigue", "anemia", "thyroid", "TSH", "CBC", "ferritin", "depression", "sleep apnea"]
+  },
+  {
+    "id": "ethics_001",
+    "specialty": "ethics",
+    "title": "Medical Ethics Principles",
+    "content": "Four principles: Autonomy (patient right to self-determination), Beneficence (act in patient best interest), Non-maleficence (do no harm), Justice (fair distribution of resources). Informed consent requires: disclosure, comprehension, voluntariness, capacity, decision. Capacity vs competence. Advance directives and surrogate decision-making. Futility criteria. Proportionality of intervention vs burden.",
+    "keywords": ["ethics", "autonomy", "informed consent", "futility", "surrogate", "capacity", "DNR", "advance directive"]
+  },
+  {
+    "id": "ethics_002",
+    "specialty": "ethics",
+    "title": "Cost-Benefit in Medical Decision Making",
+    "content": "Cost-effectiveness analysis: cost per QALY (quality-adjusted life year). Threshold: $50,000-$150,000/QALY in US. Value-based care. Insurance coverage and formulary restrictions. Off-label use considerations. Compassionate use and expanded access programs. Patient financial toxicity is a real consideration. Shared decision making tools and decision aids.",
+    "keywords": ["cost", "QALY", "value-based care", "financial toxicity", "insurance", "coverage", "expensive treatment"]
+  },
+  {
+    "id": "labs_001",
+    "specialty": "laboratory",
+    "title": "Troponin Interpretation",
+    "content": "High-sensitivity troponin (hs-cTnI/hs-cTnT): detects MI with >95% sensitivity. Delta troponin: rise ≥3-6ng/L in 1-2 hours or ≥5ng/L in 3 hours = NSTEMI. Single undetectable hs-cTn at 0h with low GRACE score = safe discharge. Causes of elevated troponin: demand ischemia, PE, myocarditis, HF, renal failure, sepsis, cardiac contusion.",
+    "keywords": ["troponin", "hs-cTn", "delta troponin", "NSTEMI", "myocarditis", "cardiac biomarker"]
+  },
+  {
+    "id": "imaging_001",
+    "specialty": "radiology",
+    "title": "Chest CT Interpretation - Lung Nodules",
+    "content": "Fleischner Society guidelines: <6mm low-risk: no follow-up needed. 6-8mm: CT at 6-12 months. >8mm: CT at 3 months, PET-CT, or tissue sampling. High-risk features: spiculated margins, upper lobe location, prior malignancy, smoking history. Ground glass opacity (GGO) vs solid: GGO slower growth. Brock and Mayo model for malignancy risk.",
+    "keywords": ["lung nodule", "Fleischner", "CT chest", "ground glass", "spiculated", "follow-up", "Brock model"]
+  }
+]

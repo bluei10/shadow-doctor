@@ -1,0 +1,27 @@
+# Virtual environment - do not upload
+backend/venv/
+
+# API keys - never upload
+backend/.env
+
+# Node modules - too large
+frontend/node_modules/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Build files
+frontend/build/
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+*.tmp

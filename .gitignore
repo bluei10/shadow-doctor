@@ -1,0 +1,10 @@
+backend/venv/
+backend/.env
+frontend/node_modules/
+__pycache__/
+*.pyc
+*.pyo
+frontend/build/
+.vscode/
+Thumbs.db
+*.log
